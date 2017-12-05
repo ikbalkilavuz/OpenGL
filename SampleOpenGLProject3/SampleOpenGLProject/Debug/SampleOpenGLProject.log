@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\opengl\include\angel.h(81): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\opengl\include\glui.h(868): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(59): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(68): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(69): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(107): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(108): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(109): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(110): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(111): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(163): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(264): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\muhammedikbal\desktop\retrica\yeni klasör\bilgisayar grafiği ödev\3\sonuc\sampleopenglproject5\sampleopenglproject\source.cpp(270): warning C4305: '-=': truncation from 'double' to 'float'
+  SampleOpenGLProject.vcxproj -> C:\Users\muhammedikbal\Desktop\Retrica\Yeni klasör\bilgisayar grafiği ödev\3\sonuc\SampleOpenGLProject5\Debug\SampleOpenGLProject.exe
+  SampleOpenGLProject.vcxproj -> C:\Users\muhammedikbal\Desktop\Retrica\Yeni klasör\bilgisayar grafiği ödev\3\sonuc\SampleOpenGLProject5\Debug\SampleOpenGLProject.pdb (Full PDB)
